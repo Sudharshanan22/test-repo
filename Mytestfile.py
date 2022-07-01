@@ -1,2 +1,3 @@
 for a in range(10):
-	print('hello')
+	if a%2==0:
+		print('hello')
